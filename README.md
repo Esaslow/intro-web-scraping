@@ -7,7 +7,7 @@ Brought to you by Galvanize. Learn more about the way we teach at [galvanize.com
 ### FAQ: 
 
 - WIFI: `Hack Reactor` | Password: `plantlife`
-- Access the curriculum using this link:**http://bit.ly/gwebscraping**
+- Access the curriculum using this link:**http://bit.ly/la-scrape**
 
 ## What this workshop is
 
@@ -189,7 +189,7 @@ Here's what we will do!
 
 #### Get Started:
 
-- Open the notebook for this workshop [here](https://colab.research.google.com/drive/1UzyruU8hLorhEZb4RmHqh7pMQjt7mDeQ).
+- Open the notebook for this workshop [here](https://colab.research.google.com/drive/1tbySh9Z2cLTJtLSLK9KZBGlj92t5m8BP).
 
 Make a copy by clicking `file` and `make copy` or `save to drive`
 
