@@ -6,8 +6,8 @@ Brought to you by Galvanize. Learn more about the way we teach at [galvanize.com
 
 ### FAQ: 
 
-- WIFI: `Hack Reactor` | Password: `plantlife`
-- Access the curriculum using this link:**http://bit.ly/galvanize-scrape**
+- WIFI: `g|Events` | Password: `learningcommunity`
+- Access the curriculum using this link:**http://bit.ly/sf-scrape**
 
 ## What this workshop is
 
