@@ -7,7 +7,8 @@ Brought to you by Galvanize. Learn more about the way we teach at [galvanize.com
 ### FAQ: 
 
 - WIFI: `g|Events` | Password: `learningcommunity`
-- Access the curriculum using this link:**http://bit.ly/sf-scrape**
+
+#### Access the curriculum using this link: **http://bit.ly/sf-scrape**
 
 ## What this workshop is
 
@@ -223,9 +224,9 @@ Book mark this repo or the colla notebook and experiement with the code. Try a d
 This is the last of our workshops for 2018!
 
 #### Immersive Bootcamp
-- [Data Science](https://www.galvanize.com/seattle/data-science) - 	 May6 - Aug2
+- [Data Science](https://www.galvanize.com/data-science) - 	 May6 - Aug2
 
-- [Software Engineer](https://www.galvanize.com/seattle/web-development) - Feb25 - Jul5
+- [Software Engineer](https://www.galvanize.com/web-development) - Feb25 - Jul5
 
 
 
